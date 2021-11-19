@@ -4667,9 +4667,9 @@
     "@types/istanbul-lib-report" "*"
 
 "@types/jest@^27.0.2":
-  version "27.0.2"
-  resolved "https://registry.yarnpkg.com/@types/jest/-/jest-27.0.2.tgz#ac383c4d4aaddd29bbf2b916d8d105c304a5fcd7"
-  integrity sha512-4dRxkS/AFX0c5XW6IPMNOydLn2tEhNhJV7DnYK+0bjoJZ+QTmfucBlihX7aoEsh/ocYtkLC73UbnBXBXIxsULA==
+  version "27.0.3"
+  resolved "https://registry.yarnpkg.com/@types/jest/-/jest-27.0.3.tgz#0cf9dfe9009e467f70a342f0f94ead19842a783a"
+  integrity sha512-cmmwv9t7gBYt7hNKH5Spu7Kuu/DotGa+Ff+JGRKZ4db5eh8PnKS4LuebJ3YLUoyOyIHraTGyULn23YtEAm0VSg==
   dependencies:
     jest-diff "^27.0.0"
     pretty-format "^27.0.0"
@@ -5857,7 +5857,7 @@ autobind-decorator@^2.4.0:
   resolved "https://registry.yarnpkg.com/autobind-decorator/-/autobind-decorator-2.4.0.tgz#ea9e1c98708cf3b5b356f7cf9f10f265ff18239c"
   integrity sha512-OGYhWUO72V6DafbF8PM8rm3EPbfuyMZcJhtm5/n26IDwO18pohE4eNazLoCGhPiXOCD0gEGmrbU3849QvM8bbw==
 
-autoprefixer@^9.8.6:
+autoprefixer@^9.1.5, autoprefixer@^9.8.6:
   version "9.8.8"
   resolved "https://registry.yarnpkg.com/autoprefixer/-/autoprefixer-9.8.8.tgz#fd4bd4595385fa6f06599de749a4d5f7a474957a"
   integrity sha512-eM9d/swFopRt5gdJ7jrpCwgvEMIayITpojhkkSMRsFHYuH5bkSQ4p/9qTEHtmNudUZh22Tehu7I6CxAW0IXTKA==
